@@ -9,7 +9,7 @@ export default function AddPlacePopup(props) {
     React.useEffect(() => {
         refInputName.current.value=''
         refInputLink.current.value=''
-    }, [props.isOpen ]);
+    }, [props.isOpen]);
 
 
     function handleSubmit(e){

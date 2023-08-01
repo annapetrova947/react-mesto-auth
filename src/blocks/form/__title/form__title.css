@@ -6,6 +6,7 @@
     margin: 0 0 54px;
 }
 
+
 @media (max-width: 880px) {
     .form__title {
         font-size: 18px;

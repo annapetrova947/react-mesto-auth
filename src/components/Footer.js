@@ -5,5 +5,7 @@ export default function Footer(){
         <footer className="footer">
             <p>© {new Date().getFullYear()} Mesto Russia</p>
         </footer>
+
     )
 }
+
